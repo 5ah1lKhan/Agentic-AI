@@ -1,0 +1,10 @@
+python=3.11.7
+streamlit
+pypdf
+langchain
+langchain-community
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+transformers
+duckduckgo-search
